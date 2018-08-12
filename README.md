@@ -23,8 +23,11 @@ All functions were tested as following:
 `node Company_data_miner.js data.json find_type [category]`. Possible categories tested and verified output  
 
 ## Future Improvements
+Rewrite code as functions for reusability  
 Allow for multiple locations for function locate  
 Allow designation for location of input file  
 Allow multiple files as input data  
 Add a function to find between years instead of only before and after  
 Various other new functions that can be used with the other fields of the data  
+Allow multiple functions to be used at the same time
+Allow multiple functions for multiple files at the same time
