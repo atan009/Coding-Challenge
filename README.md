@@ -12,14 +12,14 @@ The program is only expected to work with the parameters explicitly stated in th
 The file we are opening is in the same directory as this program  
 
 ## Testing
-After installing Node.js, this program can be ran with `node Company_data_miner.js [command] [argument]`  
+After installing Node.js, this program can be ran with `node Company_data_miner.js [filename] [command] [argument]`  
 All functions were tested as following:
 
-`node Company_data_miner.js locate [state]`. Verified output only included selected state  
-`node Company_data_miner.js find_before [year]`. Verified output only had companies inclusive and below year  
-`node Company_data_miner.js find_after [year]`. Verified output only had companies inclusive and above year  
-`node Company_data_miner.js find_between_size [range]`. All of the possible options tested and verified  
-`node Company_data_miner.js find_type [category]`. Possible categories tested and verified output  
+`node Company_data_miner.js data.json locate [state]`. Verified output only included selected state  
+`node Company_data_miner.js data.json find_before [year]`. Verified output only had companies inclusive and below year  
+`node Company_data_miner.js data.json find_after [year]`. Verified output only had companies inclusive and above year  
+`node Company_data_miner.js data.json find_between_size [range]`. All of the possible options tested and verified  
+`node Company_data_miner.js data.json find_type [category]`. Possible categories tested and verified output  
 
 ## Future Improvements
 Allow for multiple locations for function locate  
