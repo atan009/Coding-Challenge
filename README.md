@@ -4,10 +4,11 @@ This program takes in a json file, a command and an argument and returns results
 
 ## Install Insturctions
 Download and install Node.js for windows by clicking [here](https://nodejs.org/dist/v10.8.0/node-v10.8.0-x64.msi)
-or learn more from the official [website](https://nodejs.org/en/)
+or learn more from the official [website](https://nodejs.org/en/)  
+Clone this repo with `git clone https://github.com/atan009/Coding-Challenge.git` or download it directly
 
 ## Assumptions
-This program assumes that there will not be any incorrect parameters inputted  
+This program assumes that there will not be any incorrect parameters inputted including too few or too many  
 The program is only expected to work with the parameters explicitly stated in the given instructions  
 The file we are opening is in the same directory as this program  
 
