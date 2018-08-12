@@ -3,7 +3,7 @@ This technical test was completed in JavaScript using Node.js
 This program takes in a json file, a command and an argument and returns results based on the given parameters
 
 ## Install Insturctions
-Download and install Node.js for windows by clicking [here](https://nodejs.org/dist/v10.8.0/node-v10.8.0-x64.msi)
+Download and install the latest version of Node.js for windows by clicking [here](https://nodejs.org/dist/v10.8.0/node-v10.8.0-x64.msi)
 or learn more from the official [website](https://nodejs.org/en/)  
 Clone this repo with `git clone https://github.com/atan009/Coding-Challenge.git` or download it directly
 
